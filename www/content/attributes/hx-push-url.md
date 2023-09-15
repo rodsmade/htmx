@@ -21,7 +21,7 @@ Here is an example:
 </div>
 ```
 
-This will cause htmx to snapshot the current DOM to `localStorage` and push the URL `/account' into the browser location bar.
+This will cause htmx to snapshot the current DOM to `localStorage` and push the URL `/account` into the browser location bar.
 
 Another example:
 
@@ -31,7 +31,7 @@ Another example:
 </div>
 ```
 
-This will push the URL `/account/home' into the location history.
+This will push the URL `/account/home` into the location history.
 
 ## Notes
 
